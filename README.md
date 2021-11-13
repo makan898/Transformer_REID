@@ -29,7 +29,7 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 1. Clone this repository
 ```
-git clone https://github.com/sYANGunique1111/Yolov-DETR-deepsort.git
+git clone https://github.com/makan898/DETR_DeepSORT.git
 ```
 
 2. Download YOLOv3 parameters
