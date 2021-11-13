@@ -91,9 +91,8 @@ python3 yolov3_deepsort.py /dev/video0 --config_detection ./configs/yolov3_tiny.
 Use `--display` to enable display.  
 Results will be saved to `./output/results.avi` and `./output/results.txt`.
 
-All files above can also be accessed from BaiduDisk!  
-linker：[BaiduDisk](https://pan.baidu.com/s/1YJ1iPpdFTlUyLFoonYvozg)
-passwd：fbuw
+All files above can also be accessed from Google drive!  
+linker：
 
 
 
