@@ -92,7 +92,7 @@ Use `--display` to enable display.
 Results will be saved to `./output/results.avi` and `./output/results.txt`.
 
 All files above can also be accessed from Google drive!  
-linker：
+linker：https://drive.google.com/drive/folders/1e4rKH12W-vlIe62b7J2JohnhJC4_M4Pe?usp=sharing
 
 
 
