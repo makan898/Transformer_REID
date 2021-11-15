@@ -1,4 +1,4 @@
-# Deep Sort with PyTorch
+# Yolo/DETR & Deep Sort with PyTorch
 
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1636946546/video_to_markdown/images/youtube--Uf3JDkCzJN4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Uf3JDkCzJN4 "")
 
