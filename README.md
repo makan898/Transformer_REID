@@ -1,5 +1,6 @@
 # Deep Sort with PyTorch
 
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1636946546/video_to_markdown/images/youtube--Uf3JDkCzJN4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Uf3JDkCzJN4 "")
 
 ## Introduction
 This is an implement of MOT tracking algorithm deep sort. Deep sort is basicly the same with sort but added a CNN model to extract features in image of human part bounded by a detector. This CNN model is indeed a RE-ID model and the detector used in [PAPER](https://arxiv.org/abs/1703.07402) is FasterRCNN , and the original source code is [HERE](https://github.com/ZQPei/deep_sort_pytorch).  
